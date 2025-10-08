@@ -83,7 +83,7 @@ C:\Users\lenovo\Agent\
 ## 🧪 Example Usage
 
 ```bash
-python main.py --symbol INFY.NS
+python run_agent_1m.py --symbol INFY.NS
 ```
 
 **Example Output:**
