@@ -1,0 +1,8 @@
+My goal is to create an AI Agent to analyze different types of data and estimate the price range of selected Indian stock, one-month, two-month, and three-month from now. 
+- I want to use the LangChain or LangGraph framework to build this AI Agent.
+- I want to use the ChatGPT as the required LLM.
+- Till now I have build some basic beginner-friendly tools that may be required. The code for these tools is written in such a way that they can be considered as nodes in the LangGraph that can be used to build this Agent.
+- The directory structure containing python code files is given in 'readme.md' 
+- The given files 'price_loader.py', 'price_node.py' and 'run_price_node.py' are the three codes used to build one tool. The other tools are built in the same format. 
+
+So I want to build different beginner friendly tools, and ultimately build an agent that uses these tools to give better response for price range forecasting and strong reasoning for 1-month, 2-month, and 3-month from now. 
